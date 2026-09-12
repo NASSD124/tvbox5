@@ -1,0 +1,32 @@
+{
+  "spider": "https://nassd124.github.io/tvbox5/kekedy.jar;md5;b519cc78d7b8b5fd9633f0e62e045cb6\nhttps://nassd124.github.io/tvbox5/netflixgc.jar;md5;b2ddc585506a1e288077f5860f9cf5eb\nhttps://nassd124.github.io/tvbox5/silidm.jar;md5;49b01410ab394541620ca26188e1eb75",
+  "sites": [
+    {
+      "key": "kekedy",
+      "name": "可可影视",
+      "type": 3,
+      "api": "csp_Kekedy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "netflixgc",
+      "name": "奈飞工厂",
+      "type": 3,
+      "api": "csp_Netflixgc",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "silidm",
+      "name": "电影先生",
+      "type": 3,
+      "api": "csp_Silidm",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ]
+}
