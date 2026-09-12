@@ -1,0 +1,14 @@
+{
+  "spider": "https://nassd124.github.io/tvbox5/cupfoxyy.jar;md5;ba67290580e5b01ce13d58d96b044a77",
+  "sites": [
+    {
+      "key": "cupfoxyy",
+      "name": "茶杯狐",
+      "type": 3,
+      "api": "csp_Cupfoxyy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ]
+}
