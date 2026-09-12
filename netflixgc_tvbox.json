@@ -1,0 +1,14 @@
+{
+  "spider": "https://nassd124.github.io/tvbox5/netflixgc.jar;md5;b2ddc585506a1e288077f5860f9cf5eb",
+  "sites": [
+    {
+      "key": "netflixgc",
+      "name": "奈飞工厂",
+      "type": 3,
+      "api": "csp_Netflixgc",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ]
+}
