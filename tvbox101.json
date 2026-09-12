@@ -1,0 +1,172 @@
+{
+  "spider": "https://nassd124.github.io/tvbox3/tv2.jar",
+  "sites": [
+    {
+      "key": "新4K",
+      "name": "新4K影视",
+      "type": 1,
+      "api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod/"
+    },
+    {
+      "key": "橘皮",
+      "name": "橘皮影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "jar": "https://nassd124.github.io/tvbox3/tvbox3.jar",
+      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+    },
+    {
+      "key": "剧评",
+      "name": "剧评影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "jar": "https://nassd124.github.io/tvbox3/tvbox4.jar",
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+    },
+    {
+      "key": "曼波动漫",
+      "name": "曼波动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "jar": "https://nassd124.github.io/tvbox3/tvbox5.jar",
+      "ext": {
+        "url": "https://app.omofun1.top",
+        "dataKey": "66dc309cbeeca454",
+        "dataIv": "66dc309cbeeca454"
+      }
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "动漫巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://nassd124.github.io/tvbox3/liu.jar"
+    },
+    {
+      "name": "1线秒播",
+      "key": "AppV7Fz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Fz"
+    },
+    {
+      "name": "2线秒播",
+      "key": "AppV7Xy",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xy"
+    },
+    {
+      "name": "3线秒播",
+      "key": "AppV7Zjdr",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Zjdr"
+    },
+    {
+      "name": "4线秒播",
+      "key": "AppV7Xyz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xyz"
+    },
+    {
+      "name": "5线秒播",
+      "key": "AppV7Xnm",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xnm"
+    },
+    {
+      "name": "6线秒播",
+      "key": "AppV7Mtq",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Mtq"
+    },
+    {
+      "name": "7线秒播",
+      "key": "AppV7Llq",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Llq"
+    },
+    {
+      "name": "8线秒播",
+      "key": "AppV7Xsz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xsz"
+    },
+    {
+      "name": "9线秒播",
+      "key": "AppV7Xhr",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xhr"
+    },
+    {
+      "key": "kekedy",
+      "name": "可可影视",
+      "type": 3,
+      "api": "csp_Kekedy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://nassd124.github.io/tvbox5/kekedy.jar;md5;b519cc78d7b8b5fd9633f0e62e045cb6"
+    },
+    {
+      "key": "netflixgc",
+      "name": "奈飞工厂",
+      "type": 3,
+      "api": "csp_Netflixgc",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://nassd124.github.io/tvbox5/netflixgc.jar;md5;b2ddc585506a1e288077f5860f9cf5eb"
+    },
+    {
+      "key": "silidm",
+      "name": "电影先生",
+      "type": 3,
+      "api": "csp_Silidm",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://nassd124.github.io/tvbox5/silidm.jar;md5;49b01410ab394541620ca26188e1eb75"
+    }
+  ]
+}
