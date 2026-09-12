@@ -1,0 +1,15 @@
+{
+  "spider": "http://4kshipin.gd.ddnsto.com/4kvms.jar;md5;28fecf1777ef7ef2d011cb9614f1aa77",
+  "sites": [
+    {
+      "key": "4kvms",
+      "name": "4k影视",
+      "type": 3,
+      "api": "csp_Fourkvms",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "extend": "http://4kshipin.gd.ddnsto.com"
+    }
+  ]
+}
