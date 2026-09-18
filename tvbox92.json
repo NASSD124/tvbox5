@@ -1,0 +1,14 @@
+{
+  "spider": "https://nassd124.github.io/tvbox5/tiefenquan.jar;md5;2fb1d8e43b263185eaff3c29c1f1ebab",
+  "sites": [
+    {
+      "key": "tiefenquan",
+      "name": "铁粉圈",
+      "type": 3,
+      "api": "csp_Tiefenquan",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ]
+}
