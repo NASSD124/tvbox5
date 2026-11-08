@@ -1,0 +1,42 @@
+{
+  "sites": [
+    {
+      "key": "y5311",
+      "name": "夜色撩人",
+      "type": 3,
+      "api": "csp_Y5311",
+      "jar": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ""
+    },
+    {
+      "key": "dora",
+      "name": "哆啦A梦视频",
+      "type": 3,
+      "api": "csp_Dora",
+      "jar": "https://nassd124.github.io/tvbox5/dora.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ""
+    },
+    {
+      "key": "4kdyw",
+      "name": "4K电影网",
+      "type": 3,
+      "api": "csp_FourKdyw",
+      "jar": "https://raw.githubusercontent.com/你的用户名/仓库名/main/jar/4kdyw.jar?v=2;fcef290feff8c4b7898146f24950d5d6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ""
+    }
+  ],
+  "parses": [],
+  "rules": [],
+  "flags": [],
+  "spider": "",
+  "ads": []
+}
